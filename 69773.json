@@ -1,0 +1,45 @@
+{
+    "generated": "2023/01/13 00:24:30",
+    "version": "3.02",
+    "data": {
+        "title": "The long patrol",
+        "contributor": [
+            {
+                "name": "Albert M. Treynor",
+                "role": "author"
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "scans_archive_url": [
+            "https://archive.org/details/longpatrol0000trey"
+        ],
+        "credit": "Al Haines",
+        "language": "English",
+        "publisher": "",
+        "publisher_country": "US",
+        "source_publication_years": [
+            "copyright:1924",
+            "copyright:1926"
+        ],
+        "release_date": "",
+        "copyrighted_work": false,
+        "ww": "rfrank@rfrank.net",
+        "request_key": "20230102144610treynor",
+        "ebook_number": "69773"
+    }
+}
